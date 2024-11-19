@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "HV5530Breakout-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/HV5530Breakout-eagle-import.kicad_sym")(options "")(descr ""))
+)

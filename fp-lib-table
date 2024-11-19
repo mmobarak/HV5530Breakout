@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HV5530Breakout")(type "KiCad")(uri "$(KIPRJMOD)/HV5530Breakout.pretty")(options "")(descr ""))
+)
